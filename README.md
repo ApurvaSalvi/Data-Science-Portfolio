@@ -1,8 +1,10 @@
 # Data-Science-Portfolio by Apurva Salvi
 
-A collection of all of my Data Science Projects
+A collection of my Data Science Projects
 
 ## Natural Language Processing
+
+### Precision Medicine using NLP
 
 Designed a classification model for classifying the genetic mutations into 10 classes
 
